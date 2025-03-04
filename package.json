@@ -30,7 +30,7 @@
   "author": "Cinny",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cin12211/react-magic-router.git"
+    "url": "https://github.com/cin12211/vite-circular-hmr"
   },
   "license": "MIT",
   "peerDependencies": {
