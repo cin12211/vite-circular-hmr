@@ -1,6 +1,6 @@
 {
   "name": "vite-circular-hmr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Vite plugin to fix HMR issues caused by circular imports and dependency cycles",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
